@@ -1,0 +1,11 @@
+{
+  "version": "0.2.0",
+  "notes": "ccremote 0.2.0: app desktop tự cập nhật.",
+  "pub_date": "2026-10-27T11:56:51.081Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMGgwTDZrRVc1WEwyZllsZk1rOW02UjZBN0wrOWY2VWNScERRRURRcUE3Nkp3eUl6U2ZtQzlkbzJ2ckVoUlFWbG1qb2JvVGtxL0tPRE44VVJ4UTh4V3YyMzlOd2lzNFFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMTAyMjEwCWZpbGU6Y2NyZW1vdGVfMC4yLjBfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMi4wCm9zTURicFNJQkZZTFlsS3NLbEdSRnFJaVhrb2ozZzlJQnUvSGo1aWN2aEZ5aHJlY2IzSHhobDdBdUdLcFBkemxNaUF1ZmE1bzVIVEpsMWtmMGdIRUNRPT0K",
+      "url": "https://github.com/supsquad/ccremote-release/releases/download/desktop-v0.2.0/ccremote_0.2.0_x64-setup.exe"
+    }
+  }
+}

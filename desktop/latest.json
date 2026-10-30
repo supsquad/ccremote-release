@@ -1,11 +1,11 @@
 {
-  "version": "0.2.0",
-  "notes": "ccremote 0.2.0: app desktop tự cập nhật.",
-  "pub_date": "2026-10-27T11:56:51.081Z",
+  "version": "0.3.0",
+  "notes": "ccremote 0.3.0: chọn model, effort và chế độ (thủ công / tự sửa file / lập kế hoạch / tự động) cho từng chat; nút Phiên mới; mở thư mục từ điện thoại.",
+  "pub_date": "2026-10-30T11:35:56.819Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMGgwTDZrRVc1WEwyZllsZk1rOW02UjZBN0wrOWY2VWNScERRRURRcUE3Nkp3eUl6U2ZtQzlkbzJ2ckVoUlFWbG1qb2JvVGtxL0tPRE44VVJ4UTh4V3YyMzlOd2lzNFFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMTAyMjEwCWZpbGU6Y2NyZW1vdGVfMC4yLjBfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMi4wCm9zTURicFNJQkZZTFlsS3NLbEdSRnFJaVhrb2ozZzlJQnUvSGo1aWN2aEZ5aHJlY2IzSHhobDdBdUdLcFBkemxNaUF1ZmE1bzVIVEpsMWtmMGdIRUNRPT0K",
-      "url": "https://github.com/supsquad/ccremote-release/releases/download/desktop-v0.2.0/ccremote_0.2.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMGgwTDZrRVc1WEJrdEU3SldPSzFhTmVLeUlWQXNaSTVWdjMwVmZqUTg1Vi8veVYrdjdRVWpMeDdNWDU2bEV6dEFrTG1HL1c3MVBMTm1TVkVUZFgxVHdKZ1poRlduekFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMzYwMTU2CWZpbGU6Y2NyZW1vdGVfMC4zLjBfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMy4wCmxibjRZdVB6U3VnZUxwTHF5bVlCQU9DUTA2YmpXWXZLYkFwbzRFRW4zaG5RV2F3eHVFZEtoZUJKaklDWlc1TWVoUGZ4QTBBZTlEVFhkczlTRTlmcEJ3PT0K",
+      "url": "https://github.com/supsquad/ccremote-release/releases/download/desktop-v0.3.0/ccremote_0.3.0_x64-setup.exe"
     }
   }
 }

@@ -1,11 +1,11 @@
 {
-  "version": "0.3.2",
-  "notes": "ccremote 0.3.2: xóa chat của một thư mục từ điện thoại — desktop dừng session của chat, xóa chat cùng lịch sử, thư mục và file trên đĩa giữ nguyên.",
-  "pub_date": "2026-11-02T10:53:24.434Z",
+  "version": "0.3.3",
+  "notes": "Xóa chat giờ chỉ xóa tin nhắn, thư mục vẫn ở lại (nút gỡ thư mục đổi tên thành 'Gỡ thư mục'). Thêm 'Chat mới' và 'Lịch sử chat': mở lại đoạn chat cũ để xem và chat tiếp.",
+  "pub_date": "2026-11-02T13:07:59.462Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMGgwTDZrRVc1WEZDK0FaWlVQaFkzaFZ1SUk1K0NNK2NFUk5TajZ3UWhpbXhxdGlMZU93aUs4SnRuTkk4T01kc2xPVHFIVE5iM0NkUkwvUEZPd09FTlRBWFpId2U5R3dJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNjE2ODA0CWZpbGU6Y2NyZW1vdGVfMC4zLjJfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMy4yCllLUjVZbEsyeWJQdFh1aDFWMG5FeTcramFQaC80T29PcUdoZmMxZnNpdTdtNWNld2dHTk15cjBxVDJVeGZ2OHdGMURtMmFmQnZwcEVrU2FSL21wQkN3PT0K",
-      "url": "https://github.com/supsquad/ccremote-release/releases/download/desktop-v0.3.2/ccremote_0.3.2_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMGgwTDZrRVc1WENJT0JFSklnRE1pUVd0M2lpUjJVREtsdTM0ME5PZjVwWjhBa2svcUs0WlNuOFFFMXU0SHVTWlR4cGt2dWtKMjNhNlRyWlJLRzhGaHVPbmphaTlEdHd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNjI0ODc5CWZpbGU6Y2NyZW1vdGVfMC4zLjNfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMy4zCkxEenIxamsrbEdVVWdqNEEyUWk2c3p2SkZlV2djUHpoWWlIV2NldjhtbVRHOFM1VkZ0Tm8xS3p4SmNKRnArZTd1Zkx1cTl2L2dXa1NYS1V5clh1ekFRPT0K",
+      "url": "https://github.com/supsquad/ccremote-release/releases/download/desktop-v0.3.3/ccremote_0.3.3_x64-setup.exe"
     }
   }
 }

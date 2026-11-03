@@ -1,11 +1,11 @@
 {
-  "version": "0.3.3",
-  "notes": "Xóa chat giờ chỉ xóa tin nhắn, thư mục vẫn ở lại (nút gỡ thư mục đổi tên thành 'Gỡ thư mục'). Thêm 'Chat mới' và 'Lịch sử chat': mở lại đoạn chat cũ để xem và chat tiếp.",
-  "pub_date": "2026-11-02T13:07:59.462Z",
+  "version": "0.3.4",
+  "notes": "Logo mới cho app, icon khay hệ thống và favicon.",
+  "pub_date": "2026-11-03T17:30:30.468Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMGgwTDZrRVc1WENJT0JFSklnRE1pUVd0M2lpUjJVREtsdTM0ME5PZjVwWjhBa2svcUs0WlNuOFFFMXU0SHVTWlR4cGt2dWtKMjNhNlRyWlJLRzhGaHVPbmphaTlEdHd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNjI0ODc5CWZpbGU6Y2NyZW1vdGVfMC4zLjNfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMy4zCkxEenIxamsrbEdVVWdqNEEyUWk2c3p2SkZlV2djUHpoWWlIV2NldjhtbVRHOFM1VkZ0Tm8xS3p4SmNKRnArZTd1Zkx1cTl2L2dXa1NYS1V5clh1ekFRPT0K",
-      "url": "https://github.com/supsquad/ccremote-release/releases/download/desktop-v0.3.3/ccremote_0.3.3_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMGgwTDZrRVc1WE5jbnV1NUVodzJhd0NmQWVsU2ZhYzlVdWtVNWJMUnNHSWdJTjFiZXN0djBQMkh0MXduc1c2b1owaEIra0hVMHZDNjIzZ1NSeVNJOFp3aUxVZUsyMUFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNzI3MDMwCWZpbGU6Y2NyZW1vdGVfMC4zLjRfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMy40ClI0R29haEVWMDZ1YWlmVlQrWXQrZXh4MWwvamtEM0J4RWZRb0tJL3I3YnRVbFBTM1VEb1RWVlBrWjh2cjRKb1E0bHZrdEJ2a1RpUUJRU3FRWlA1NUF3PT0K",
+      "url": "https://github.com/supsquad/ccremote-release/releases/download/desktop-v0.3.4/ccremote_0.3.4_x64-setup.exe"
     }
   }
 }

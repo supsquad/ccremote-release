@@ -1,11 +1,11 @@
 {
-  "version": "0.4.0",
-  "notes": "Giao diện mới, đồng bộ với điện thoại và web: dễ thấy chat đang cần bạn xử lý hơn. Ứng dụng đổi tên thành CCRemote.",
-  "pub_date": "2026-11-04T09:24:10.865Z",
+  "version": "0.5.0",
+  "notes": "Giao diện chat mới: câu trả lời của agent hiện Markdown với bảng và code tô màu, tool gộp thành khối gập được, thẻ xin quyền và cài đặt gọn hơn.",
+  "pub_date": "2026-11-04T11:03:01.784Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMGgwTDZrRVc1WE1XeElhd3FCc0dZV3hNUjFOUzI2NlErbFVCcVdOVDM5aE13WEJZNUdHUG5DS3hibDhPcjFBajNLOFc5V3MrUXozYVFKM1FCYm1KUGFNQTUrQllPWWdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNzg0MjUwCWZpbGU6Q0NSZW1vdGVfMC40LjBfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuNC4wCmtKaVllclh0aUpHWGlYcDhIYUR5aXprekNkMWRxdHY2dzRiUHczQXB5ZXJRdDFMamxpKzdZRWgxUVBmaytzdStwOHZ2cWlFajUzUWFwNCtybG5WNUF3PT0K",
-      "url": "https://github.com/supsquad/ccremote-release/releases/download/desktop-v0.4.0/CCRemote_0.4.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMGgwTDZrRVc1WEk3TUU3TG5xNXAyVUZTUEtGTlZZU0tCRFloMWx2aUhZR0F6VzBYaVMreUYxeHpJcEZITWpnbXY2YzZnQjg3ZVlqOTIwZW5PVG91TjZHTWJKektMUHd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNzkwMTgxCWZpbGU6Q0NSZW1vdGVfMC41LjBfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuNS4wCitvVVhaSEVQNmpFN0hCaFZ4d0g5ZWVudkJsbUg5SGxLMWVZVnBBNVFlK0ZTb1dOUUVIaXBNVGtyaEtleVhUeHVXVlA1cGpXdU1oOUtSYXQ5VFJsR0FRPT0K",
+      "url": "https://github.com/supsquad/ccremote-release/releases/download/desktop-v0.5.0/CCRemote_0.5.0_x64-setup.exe"
     }
   }
 }

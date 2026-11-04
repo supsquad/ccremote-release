@@ -1,7 +1,7 @@
 {
-  "version_name": "1.4.1",
-  "version_code": 10,
-  "apk_url": "https://github.com/supsquad/ccremote-release/releases/download/android-v1.4.1/ccremote-1.4.1.apk",
-  "sha256": "1dabedb7a8c777eec9d6fc3976a6a62020cd762a958c933c86054b7c6ca8c4bd",
-  "size": 63757197
+  "version_name": "1.4.2",
+  "version_code": 11,
+  "apk_url": "https://github.com/supsquad/ccremote-release/releases/download/android-v1.4.2/ccremote-1.4.2.apk",
+  "sha256": "ba3803a846ec3931f50c3a44febb566bf87234e5ab7431f2f9416ded0cde5630",
+  "size": 63759261
 }

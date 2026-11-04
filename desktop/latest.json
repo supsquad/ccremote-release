@@ -1,11 +1,11 @@
 {
-  "version": "0.3.4",
-  "notes": "Logo mới cho app, icon khay hệ thống và favicon.",
-  "pub_date": "2026-11-03T17:30:30.468Z",
+  "version": "0.4.0",
+  "notes": "Giao diện mới, đồng bộ với điện thoại và web: dễ thấy chat đang cần bạn xử lý hơn. Ứng dụng đổi tên thành CCRemote.",
+  "pub_date": "2026-11-04T09:24:10.865Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMGgwTDZrRVc1WE5jbnV1NUVodzJhd0NmQWVsU2ZhYzlVdWtVNWJMUnNHSWdJTjFiZXN0djBQMkh0MXduc1c2b1owaEIra0hVMHZDNjIzZ1NSeVNJOFp3aUxVZUsyMUFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNzI3MDMwCWZpbGU6Y2NyZW1vdGVfMC4zLjRfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMy40ClI0R29haEVWMDZ1YWlmVlQrWXQrZXh4MWwvamtEM0J4RWZRb0tJL3I3YnRVbFBTM1VEb1RWVlBrWjh2cjRKb1E0bHZrdEJ2a1RpUUJRU3FRWlA1NUF3PT0K",
-      "url": "https://github.com/supsquad/ccremote-release/releases/download/desktop-v0.3.4/ccremote_0.3.4_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMGgwTDZrRVc1WE1XeElhd3FCc0dZV3hNUjFOUzI2NlErbFVCcVdOVDM5aE13WEJZNUdHUG5DS3hibDhPcjFBajNLOFc5V3MrUXozYVFKM1FCYm1KUGFNQTUrQllPWWdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNzg0MjUwCWZpbGU6Q0NSZW1vdGVfMC40LjBfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuNC4wCmtKaVllclh0aUpHWGlYcDhIYUR5aXprekNkMWRxdHY2dzRiUHczQXB5ZXJRdDFMamxpKzdZRWgxUVBmaytzdStwOHZ2cWlFajUzUWFwNCtybG5WNUF3PT0K",
+      "url": "https://github.com/supsquad/ccremote-release/releases/download/desktop-v0.4.0/CCRemote_0.4.0_x64-setup.exe"
     }
   }
 }

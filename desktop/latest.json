@@ -1,11 +1,11 @@
 {
-  "version": "0.5.1",
-  "notes": "Đổi màu nhận diện từ xanh chanh sang xanh lam cho dễ nhìn hơn, logo cùng màu. Icon ở khay hệ thống giờ chỉ còn chữ C đầu của logo.",
-  "pub_date": "2026-11-04T13:10:12.888Z",
+  "version": "0.5.2",
+  "notes": "Giao diện mới: icon riêng cho từng agent, thông báo đồng bộ kích thước và màu, câu chữ ngắn gọn. Sửa icon taskbar vẫn hiện màu cũ sau khi cập nhật.",
+  "pub_date": "2026-11-04T15:56:02.646Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMGgwTDZrRVc1WEZrSmxtUlZJcWJKdjFydUtRdENmMTJocHVhVEdEWWdPVnhhOTJvSzBINWlQZFFZVk5OYmthUkpSSnVvWXBlY0tEN2FZcndRak1CVzRCWkFuNFIrd3drPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNzk3ODEyCWZpbGU6Q0NSZW1vdGVfMC41LjFfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuNS4xCmVJMTNZYm9lRUhFa2hpc2J0cVdwY0k1UHp6RnUzRFBkL3IvUi9aMDlGMHo3dVNsaDhoYzFtUXV0QTRicGRTemcxeGR3S0pZeTlVUDJDNVRsSkZJV0R3PT0K",
-      "url": "https://github.com/supsquad/ccremote-release/releases/download/desktop-v0.5.1/CCRemote_0.5.1_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMGgwTDZrRVc1WEk3NCttTzZFd2N3UEdSRUsvTDBvd1MxN29LcVRMK0FGQ09PSGFZMGVpbHNOMVlxUCt5OU1RT0JRa3ZPVW1rTGJLa3l6aEFxT0VUTWN1eGJpUFNJZ3dnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODA3NzYyCWZpbGU6Q0NSZW1vdGVfMC41LjJfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuNS4yCmx4SkV3WWdWdi92Y0VFRmtGOVAxRkpkMmViNm9xUEl1WjV2V2JOdHVZbTI3aHpDemtNQW9kMmNhMDhJeE5NRmc3bHQ1VXZPR3VnNkxVVDlYQ2k4NURBPT0K",
+      "url": "https://github.com/supsquad/ccremote-release/releases/download/desktop-v0.5.2/CCRemote_0.5.2_x64-setup.exe"
     }
   }
 }

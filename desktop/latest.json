@@ -1,11 +1,11 @@
 {
-  "version": "0.5.2",
-  "notes": "Giao diện mới: icon riêng cho từng agent, thông báo đồng bộ kích thước và màu, câu chữ ngắn gọn. Sửa icon taskbar vẫn hiện màu cũ sau khi cập nhật.",
-  "pub_date": "2026-11-04T15:56:02.646Z",
+  "version": "0.5.3",
+  "notes": "Bỏ icon riêng của từng agent, agent chỉ ghi tên dạng chữ. Thẻ xin quyền hiện thêm đường dẫn. Câu chữ thống nhất với app Android và web.",
+  "pub_date": "2026-11-04T16:44:33.124Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMGgwTDZrRVc1WEk3NCttTzZFd2N3UEdSRUsvTDBvd1MxN29LcVRMK0FGQ09PSGFZMGVpbHNOMVlxUCt5OU1RT0JRa3ZPVW1rTGJLa3l6aEFxT0VUTWN1eGJpUFNJZ3dnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODA3NzYyCWZpbGU6Q0NSZW1vdGVfMC41LjJfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuNS4yCmx4SkV3WWdWdi92Y0VFRmtGOVAxRkpkMmViNm9xUEl1WjV2V2JOdHVZbTI3aHpDemtNQW9kMmNhMDhJeE5NRmc3bHQ1VXZPR3VnNkxVVDlYQ2k4NURBPT0K",
-      "url": "https://github.com/supsquad/ccremote-release/releases/download/desktop-v0.5.2/CCRemote_0.5.2_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMGgwTDZrRVc1WEFvUDM0Q1A0bDEzdUV6b0c2c1Z4WTBld0EzN1AxZGYzdlNQRFE2MCs3OXJoNFQycUE0dUNIeGxvbDYyT21pNWwyYjF5am1SbkdtY1pOMWRKV2lYQ2dZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODEwNjcyCWZpbGU6Q0NSZW1vdGVfMC41LjNfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuNS4zCldVanJsd1djdDZQNHZ3TUY1RWJaTkdqRW0xbENtRG5QQnUrenhsR29RL2pXTGFQMitnaVRDY01TTC92Q0djekFRcnplZlMwZWh6Y2RHSjg0eWhzL0FnPT0K",
+      "url": "https://github.com/supsquad/ccremote-release/releases/download/desktop-v0.5.3/CCRemote_0.5.3_x64-setup.exe"
     }
   }
 }

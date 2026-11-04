@@ -1,11 +1,11 @@
 {
-  "version": "0.5.0",
-  "notes": "Giao diện chat mới: câu trả lời của agent hiện Markdown với bảng và code tô màu, tool gộp thành khối gập được, thẻ xin quyền và cài đặt gọn hơn.",
-  "pub_date": "2026-11-04T11:03:01.784Z",
+  "version": "0.5.1",
+  "notes": "Đổi màu nhận diện từ xanh chanh sang xanh lam cho dễ nhìn hơn, logo cùng màu. Icon ở khay hệ thống giờ chỉ còn chữ C đầu của logo.",
+  "pub_date": "2026-11-04T13:10:12.888Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMGgwTDZrRVc1WEk3TUU3TG5xNXAyVUZTUEtGTlZZU0tCRFloMWx2aUhZR0F6VzBYaVMreUYxeHpJcEZITWpnbXY2YzZnQjg3ZVlqOTIwZW5PVG91TjZHTWJKektMUHd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNzkwMTgxCWZpbGU6Q0NSZW1vdGVfMC41LjBfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuNS4wCitvVVhaSEVQNmpFN0hCaFZ4d0g5ZWVudkJsbUg5SGxLMWVZVnBBNVFlK0ZTb1dOUUVIaXBNVGtyaEtleVhUeHVXVlA1cGpXdU1oOUtSYXQ5VFJsR0FRPT0K",
-      "url": "https://github.com/supsquad/ccremote-release/releases/download/desktop-v0.5.0/CCRemote_0.5.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMGgwTDZrRVc1WEZrSmxtUlZJcWJKdjFydUtRdENmMTJocHVhVEdEWWdPVnhhOTJvSzBINWlQZFFZVk5OYmthUkpSSnVvWXBlY0tEN2FZcndRak1CVzRCWkFuNFIrd3drPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNzk3ODEyCWZpbGU6Q0NSZW1vdGVfMC41LjFfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuNS4xCmVJMTNZYm9lRUhFa2hpc2J0cVdwY0k1UHp6RnUzRFBkL3IvUi9aMDlGMHo3dVNsaDhoYzFtUXV0QTRicGRTemcxeGR3S0pZeTlVUDJDNVRsSkZJV0R3PT0K",
+      "url": "https://github.com/supsquad/ccremote-release/releases/download/desktop-v0.5.1/CCRemote_0.5.1_x64-setup.exe"
     }
   }
 }

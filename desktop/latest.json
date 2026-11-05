@@ -1,11 +1,11 @@
 {
-  "version": "0.6.2",
-  "notes": "Chưa chọn agent: bỏ notice riêng, giống điện thoại. Hộp thoại xóa gọn hơn. Bỏ hiển thị giá tiền.",
-  "pub_date": "2026-11-05T13:08:11.787Z",
+  "version": "0.6.3",
+  "notes": "Avatar nền đặc, chữ trắng. Chữ viết tắt giống điện thoại. Nút Xóa đỏ rõ hơn, chữ trắng. \"Thu hồi\" đổi thành \"Gỡ khỏi tài khoản\".",
+  "pub_date": "2026-11-05T14:59:23.473Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMGgwTDZrRVc1WEY1cjRTNW1KeTlSankzM0V3UTloUHpBR0hORExUYWRVSEI4MXFkNnhXTVYzc3JhTGhQaTFvdzdyZGI4OWFBaTA4V0pKaU5ENGo4SVExc3BOSUZQRlEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODg0MDkxCWZpbGU6Q0NSZW1vdGVfMC42LjJfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuNi4yClhHVmoxd3Y5NllhTWxSTFF2alJZUmZsb2FPMUhqdWhpNEFRMFN4Ri9QTERoKzZrUEVsNFZjbEdpSWpNb3FUeW5heEdJbHhENjA1dUMxb0VReEVEMkNBPT0K",
-      "url": "https://github.com/supsquad/ccremote-release/releases/download/desktop-v0.6.2/CCRemote_0.6.2_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMGgwTDZrRVc1WEVjZjVXRGthM2pDVWE1Wm81YVFJT3JSaEkyQVNwbmUyb1VTZmtwZk1tYnBXNVFGRlZMNUVjTFZpcXQxa0VHOWkvL1FRRWZ4ZWd2WlFjMXIxbUZmYVFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODkwNzYzCWZpbGU6Q0NSZW1vdGVfMC42LjNfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuNi4zCk1pUUNxbkl3VzdvSjJCS284ejNQY0pGb0orVk1IQUNlcnFidDhFMWdwQ2FTcGx6ZGJnQTFwUUdOUHBlT0ZUOXZsRXZqWDZleExsL1hzM3hmb2p1SEFnPT0K",
+      "url": "https://github.com/supsquad/ccremote-release/releases/download/desktop-v0.6.3/CCRemote_0.6.3_x64-setup.exe"
     }
   }
 }

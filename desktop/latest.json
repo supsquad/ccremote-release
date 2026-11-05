@@ -1,11 +1,11 @@
 {
-  "version": "0.5.3",
-  "notes": "Bỏ icon riêng của từng agent, agent chỉ ghi tên dạng chữ. Thẻ xin quyền hiện thêm đường dẫn. Câu chữ thống nhất với app Android và web.",
-  "pub_date": "2026-11-04T16:44:33.124Z",
+  "version": "0.6.0",
+  "notes": "Ô soạn tin gọn hơn: nút icon cho kết nối và chế độ, model và effort chung một nút. Sửa được tin đã gửi.",
+  "pub_date": "2026-11-05T09:39:05.175Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMGgwTDZrRVc1WEFvUDM0Q1A0bDEzdUV6b0c2c1Z4WTBld0EzN1AxZGYzdlNQRFE2MCs3OXJoNFQycUE0dUNIeGxvbDYyT21pNWwyYjF5am1SbkdtY1pOMWRKV2lYQ2dZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODEwNjcyCWZpbGU6Q0NSZW1vdGVfMC41LjNfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuNS4zCldVanJsd1djdDZQNHZ3TUY1RWJaTkdqRW0xbENtRG5QQnUrenhsR29RL2pXTGFQMitnaVRDY01TTC92Q0djekFRcnplZlMwZWh6Y2RHSjg0eWhzL0FnPT0K",
-      "url": "https://github.com/supsquad/ccremote-release/releases/download/desktop-v0.5.3/CCRemote_0.5.3_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMGgwTDZrRVc1WEx4OXBqYmpQZkorTWx6MmNmaHBpVE9KUy9HRWtnWWZMZkwyVktHd3VPRENVTXRxMElNMTBWVUZFY2ZGbktwSVVTOUdpZ2VkN0ZjZDhGYTNUUm0zcUFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODcxNTQ1CWZpbGU6Q0NSZW1vdGVfMC42LjBfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuNi4wCkJjYnhOUXRnaTRpenBhY1dPK1NDaC9QYmZVQmM2VENNc2N4Y2JOV3EvUGlTL29hSjJscVBWVjY4QVlZTUVVOElucmpuRWRCK1dJb2FMWXdCenlYY0RBPT0K",
+      "url": "https://github.com/supsquad/ccremote-release/releases/download/desktop-v0.6.0/CCRemote_0.6.0_x64-setup.exe"
     }
   }
 }

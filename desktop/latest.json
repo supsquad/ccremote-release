@@ -1,11 +1,11 @@
 {
-  "version": "0.6.0",
-  "notes": "Ô soạn tin gọn hơn: nút icon cho kết nối và chế độ, model và effort chung một nút. Sửa được tin đã gửi.",
-  "pub_date": "2026-11-05T09:39:05.175Z",
+  "version": "0.6.1",
+  "notes": "Xóa chat giờ xóa hẳn chat và thư mục khỏi danh sách (file trên máy giữ nguyên); bỏ mục Gỡ thư mục.",
+  "pub_date": "2026-11-05T12:20:29.882Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMGgwTDZrRVc1WEx4OXBqYmpQZkorTWx6MmNmaHBpVE9KUy9HRWtnWWZMZkwyVktHd3VPRENVTXRxMElNMTBWVUZFY2ZGbktwSVVTOUdpZ2VkN0ZjZDhGYTNUUm0zcUFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODcxNTQ1CWZpbGU6Q0NSZW1vdGVfMC42LjBfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuNi4wCkJjYnhOUXRnaTRpenBhY1dPK1NDaC9QYmZVQmM2VENNc2N4Y2JOV3EvUGlTL29hSjJscVBWVjY4QVlZTUVVOElucmpuRWRCK1dJb2FMWXdCenlYY0RBPT0K",
-      "url": "https://github.com/supsquad/ccremote-release/releases/download/desktop-v0.6.0/CCRemote_0.6.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMGgwTDZrRVc1WEdWWU1CWDMyQmM0c1k2ajBQVjZQZDBISzJ5dHlRU0Nudy95a0VmVGtTc3dkdEpBeTNmNnYxUHZmaHdFYXVPTTFKamZjVXBwVHgrczE0cktlcUlUZWdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODgxMjI5CWZpbGU6Q0NSZW1vdGVfMC42LjFfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuNi4xCjlpN0hiaU5CUFpSN3JOdnRWR1k0Ti9lWWZ5aSs4WWtFZW9QbXFsVXVwR1RsVmd6VktYdkFnMkowdDdraUo2a2hpMERQUGgvRkJ1MkJyN0kwd2R0VER3PT0K",
+      "url": "https://github.com/supsquad/ccremote-release/releases/download/desktop-v0.6.1/CCRemote_0.6.1_x64-setup.exe"
     }
   }
 }

@@ -1,11 +1,11 @@
 {
-  "version": "0.6.4",
-  "notes": "Sửa được tin đã gửi cả khi chưa chọn agent. Dòng \"Xong\" lên đầu lượt, nút chép của câu trả lời luôn hiện. Bỏ dòng \"Suy nghĩ\" trống và nhãn trạng thái ở đầu màn chat. Nút icon vuông, cách đều, icon agent hình robot. Chữ trong avatar nằm giữa. Nút \"Gỡ khỏi tài khoản\" chỉ còn \"Gỡ\".",
-  "pub_date": "2026-11-05T16:45:50.726Z",
+  "version": "0.6.5",
+  "notes": "Đăng nhập/xóa Agent Profile (Claude Code, Codex) từ điện thoại",
+  "pub_date": "2026-11-06T15:44:36.595Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMGgwTDZrRVc1WE5jWVhVaVc1RGJ6dzRUZlhyWURxcm9wV1d5cmZEVlV3aCtiY2JaeHdqaS9ZWEd1YVVKbVg1VG1sVjNqZWFRVkp2MmxpcElEWVhZZUZUVXhnNnh1WmdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODk3MTUwCWZpbGU6Q0NSZW1vdGVfMC42LjRfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuNi40CnpmRTNURG9rVVBYaEp6OU0xc0E4cUE1ZUc1N3d2dVV4cjJJRDIzTi9GTDh5bFVkZ0Y4dXJJMmFvMmszSmJ2aW5MeU9uMytvNldKdGVFQnNBakpFeEJ3PT0K",
-      "url": "https://github.com/supsquad/ccremote-release/releases/download/desktop-v0.6.4/CCRemote_0.6.4_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMGgwTDZrRVc1WE5UTm80L21JTEJ2U0dxN2xNaWdya2FaT0dYV3VqVUxLMHR0MkQ5TVFhdkFYNkJzRTB1Vm5la1g3L3gvZlQ2QW5ZK25lSDNaYmVnd2JvL0JzOWJwSVFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTc5ODc2CWZpbGU6Q0NSZW1vdGVfMC42LjVfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuNi41CkEwN0NCSzdKM3RqWUtyWkM3d3NXd0lNeFlGaVdoaFdBdWljT2MvTkpsR1pyS0RtbzhuSW9tc3k5SHFSZG9DYklrbk9weENtbmxWSFpTZXJzUDlUWkFBPT0K",
+      "url": "https://github.com/supsquad/ccremote-release/releases/download/desktop-v0.6.5/CCRemote_0.6.5_x64-setup.exe"
     }
   }
 }

@@ -1,11 +1,11 @@
 {
-  "version": "0.6.5",
-  "notes": "Đăng nhập/xóa Agent Profile (Claude Code, Codex) từ điện thoại",
-  "pub_date": "2026-11-06T15:44:36.595Z",
+  "version": "0.6.6",
+  "notes": "Bỏ chọn máy chủ ở màn đăng nhập; bấm ô soạn tin khi chưa chọn agent thì nhắc chọn agent; gửi email tài khoản agent tới điện thoại để phân biệt các kết nối.",
+  "pub_date": "2026-11-07T14:40:29.571Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMGgwTDZrRVc1WE5UTm80L21JTEJ2U0dxN2xNaWdya2FaT0dYV3VqVUxLMHR0MkQ5TVFhdkFYNkJzRTB1Vm5la1g3L3gvZlQ2QW5ZK25lSDNaYmVnd2JvL0JzOWJwSVFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTc5ODc2CWZpbGU6Q0NSZW1vdGVfMC42LjVfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuNi41CkEwN0NCSzdKM3RqWUtyWkM3d3NXd0lNeFlGaVdoaFdBdWljT2MvTkpsR1pyS0RtbzhuSW9tc3k5SHFSZG9DYklrbk9weENtbmxWSFpTZXJzUDlUWkFBPT0K",
-      "url": "https://github.com/supsquad/ccremote-release/releases/download/desktop-v0.6.5/CCRemote_0.6.5_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMGgwTDZrRVc1WE9IVXhJbFE2QjROM2MrNTZzeGdDRnJyclg3WlViblRIbXVwZTFjb2ZNdi80N1ZqNjZyYWRlSmFESmxibndMajJMUE81eTVudU1KcGxyM045cERCTnd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MDYyNDI5CWZpbGU6Q0NSZW1vdGVfMC42LjZfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuNi42CkFJZk4ySnY2Rm5wVWczcUQvMks1QXIzVG9ZMm5BUWllUmN0MXZHalFqOVJoeUtIQ1J0N3YxV3U0SnU4YW5iZGFvdnVGWWlTUm9KWUFGaElZNkwwSENRPT0K",
+      "url": "https://github.com/supsquad/ccremote-release/releases/download/desktop-v0.6.6/CCRemote_0.6.6_x64-setup.exe"
     }
   }
 }

@@ -1,11 +1,11 @@
 {
-  "version": "0.6.7",
-  "notes": "Avatar có hình (thư mục, tài khoản tròn); dòng chat ghi trạng thái, bỏ cú pháp Markdown; nhắc chọn agent nằm giữa, không icon.",
-  "pub_date": "2026-11-07T15:52:44.480Z",
+  "version": "0.6.8",
+  "notes": "Bấm dừng là agent dừng ngay, không trả lời thêm. Ghim tin đang đọc ở đầu chat và gập tin dài như trên điện thoại; dòng đang làm việc có ba chấm và số giây; chọn effort dễ nhìn hơn; nút chép có chuyển động.",
+  "pub_date": "2026-11-08T05:30:26.200Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMGgwTDZrRVc1WE5rbkp2OXJxNzFpUy9xOTVxMlpGWWJ0OWdkSTB6NDY4WUczSmI1VWlhb2s2WW9TN2c5bC9GSnJYcDhCRThwS0prblRmVUR4VTRmM1VUWHF6K3dnZkEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MDY2NzY0CWZpbGU6Q0NSZW1vdGVfMC42LjdfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuNi43CmZoQ1FvSlphRys4cVUwOUx5R3B1TEdyOWJ2c0QzanpkK1lRVk1tYUNGMUc3cUJUUURnYlpsc3Y0VzZMdGh0aUhPQURJcnN6eWczaHJKS2xLTVhTd0FBPT0K",
-      "url": "https://github.com/supsquad/ccremote-release/releases/download/desktop-v0.6.7/CCRemote_0.6.7_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMGgwTDZrRVc1WE1PTVdEbUorOFp1cXorR3hiSVBBMjFMeSs3SFZyTTVYaTVWbTNxRlRLaDEvN25lRUp0alk5bUF1MlZQM2w4VG1TTWtBWG5SMEhacHZnakxpbTJNbmc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTE1ODI2CWZpbGU6Q0NSZW1vdGVfMC42LjhfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuNi44Cjd0OUkvYlU1YVM5SnJuUk85NEJiajNrWTNPNmt1c0ZVdkxLemg1UWEvMHpxT0RyelM0MlNZME9QcktKeEZndHRtSmcwZFFVbTJQSHkwNkllZE52a0N3PT0K",
+      "url": "https://github.com/supsquad/ccremote-release/releases/download/desktop-v0.6.8/CCRemote_0.6.8_x64-setup.exe"
     }
   }
 }

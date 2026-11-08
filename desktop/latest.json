@@ -1,11 +1,11 @@
 {
-  "version": "0.6.8",
-  "notes": "Bấm dừng là agent dừng ngay, không trả lời thêm. Ghim tin đang đọc ở đầu chat và gập tin dài như trên điện thoại; dòng đang làm việc có ba chấm và số giây; chọn effort dễ nhìn hơn; nút chép có chuyển động.",
-  "pub_date": "2026-11-08T05:30:26.200Z",
+  "version": "0.6.9",
+  "notes": "Link đăng nhập agent nằm trên một dòng, kéo ngang để xem hết thay vì bị cắt; nút chép và mở trình duyệt nằm bên phải ô.",
+  "pub_date": "2026-11-08T07:28:39.034Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMGgwTDZrRVc1WE1PTVdEbUorOFp1cXorR3hiSVBBMjFMeSs3SFZyTTVYaTVWbTNxRlRLaDEvN25lRUp0alk5bUF1MlZQM2w4VG1TTWtBWG5SMEhacHZnakxpbTJNbmc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTE1ODI2CWZpbGU6Q0NSZW1vdGVfMC42LjhfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuNi44Cjd0OUkvYlU1YVM5SnJuUk85NEJiajNrWTNPNmt1c0ZVdkxLemg1UWEvMHpxT0RyelM0MlNZME9QcktKeEZndHRtSmcwZFFVbTJQSHkwNkllZE52a0N3PT0K",
-      "url": "https://github.com/supsquad/ccremote-release/releases/download/desktop-v0.6.8/CCRemote_0.6.8_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMGgwTDZrRVc1WEZZamoxV2FoNFdiZUhQamVFTnk1c2RNRnJYcThsRk5Md2RiVG1CQ3hCQlczN01YRHMzcUZ2WGs5Q1YrUEV6c3VFWlN6Qk9saE9tMnppSmluL3dNWEFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTIyOTE4CWZpbGU6Q0NSZW1vdGVfMC42LjlfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuNi45Ckp3UXIrcGRYNzJjdDFiMTRFTmRIU1NCeFNEQzMrUVFJRkdTZlM5MW83cU9VeGgxSlRMMEZ6bC9qYnlSRkZ5UnNxS2o4QVc3eTljUFFSVXQ5K21YOEJ3PT0K",
+      "url": "https://github.com/supsquad/ccremote-release/releases/download/desktop-v0.6.9/CCRemote_0.6.9_x64-setup.exe"
     }
   }
 }

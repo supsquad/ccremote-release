@@ -1,11 +1,11 @@
 {
-  "version": "0.6.9",
-  "notes": "Link đăng nhập agent nằm trên một dòng, kéo ngang để xem hết thay vì bị cắt; nút chép và mở trình duyệt nằm bên phải ô.",
-  "pub_date": "2026-11-08T07:28:39.034Z",
+  "version": "0.6.10",
+  "notes": "Chọn agent là tự tải agent đó về. Đăng nhập từ điện thoại không mở trình duyệt trên máy; Codex đăng nhập bằng mã một lần.",
+  "pub_date": "2026-11-09T15:34:33.563Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMGgwTDZrRVc1WEZZamoxV2FoNFdiZUhQamVFTnk1c2RNRnJYcThsRk5Md2RiVG1CQ3hCQlczN01YRHMzcUZ2WGs5Q1YrUEV6c3VFWlN6Qk9saE9tMnppSmluL3dNWEFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTIyOTE4CWZpbGU6Q0NSZW1vdGVfMC42LjlfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuNi45Ckp3UXIrcGRYNzJjdDFiMTRFTmRIU1NCeFNEQzMrUVFJRkdTZlM5MW83cU9VeGgxSlRMMEZ6bC9qYnlSRkZ5UnNxS2o4QVc3eTljUFFSVXQ5K21YOEJ3PT0K",
-      "url": "https://github.com/supsquad/ccremote-release/releases/download/desktop-v0.6.9/CCRemote_0.6.9_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMGgwTDZrRVc1WE9KVjQyYnQ0cmlmUlJKUEpaQkkzMWhpUjh4QnI2a0w4c29Udmt1VEF5K1ZUY0xaNHluRjdJWE1IRisycEtId0ZxTkVneUhjOWZLblhuMUVMRk5SdkFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MjM4NDczCWZpbGU6Q0NSZW1vdGVfMC42LjEwX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjYuMTAKZk9rSkN2SXVEM013d3MzOHF3N09zK241MHU5NkNQTWM4ODJpMGlMMG5aRW9CY3BGS1dEOU1HL1JqZUZWSllJeXZnU1dsSUFBOGhhNmdLczhKNHlzQ2c9PQo=",
+      "url": "https://github.com/supsquad/ccremote-release/releases/download/desktop-v0.6.10/CCRemote_0.6.10_x64-setup.exe"
     }
   }
 }

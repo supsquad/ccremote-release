@@ -1,11 +1,11 @@
 {
-  "version": "0.6.10",
-  "notes": "Chọn agent là tự tải agent đó về. Đăng nhập từ điện thoại không mở trình duyệt trên máy; Codex đăng nhập bằng mã một lần.",
-  "pub_date": "2026-11-09T15:34:33.563Z",
+  "version": "0.7.0",
+  "notes": "Cửa hàng extension: menu tài khoản → Extension (hoặc Ctrl+Shift+X). Extension đầu tiên là WSL (bản preview, mới kiểm tra máy có WSL và distro).",
+  "pub_date": "2026-11-10T15:38:28.129Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMGgwTDZrRVc1WE9KVjQyYnQ0cmlmUlJKUEpaQkkzMWhpUjh4QnI2a0w4c29Udmt1VEF5K1ZUY0xaNHluRjdJWE1IRisycEtId0ZxTkVneUhjOWZLblhuMUVMRk5SdkFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MjM4NDczCWZpbGU6Q0NSZW1vdGVfMC42LjEwX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjYuMTAKZk9rSkN2SXVEM013d3MzOHF3N09zK241MHU5NkNQTWM4ODJpMGlMMG5aRW9CY3BGS1dEOU1HL1JqZUZWSllJeXZnU1dsSUFBOGhhNmdLczhKNHlzQ2c9PQo=",
-      "url": "https://github.com/supsquad/ccremote-release/releases/download/desktop-v0.6.10/CCRemote_0.6.10_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMGgwTDZrRVc1WEdiRUY2ajJBblhUdCtzbnVMZlF4OVhYdE5hc0twQlBaZE5KL2phMjVaRmxFMWJicUlyQXZId3M0cDYwNDYzSEp2c2NNeFpWMk5Wa2tveXNQTFQ5eEE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MzI1MTA3CWZpbGU6Q0NSZW1vdGVfMC43LjBfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuNy4wCm1rVlZmVlN2UHhTOGRvWmxYd2ZpQmFMT3Nod3NoRTd5ZGM1L3MxMVdMT0hkYUgveXNVL2hUeUVzR3ltNnhOYktidU1jTzBJcE5lOFAwUm92TDRuK0J3PT0K",
+      "url": "https://github.com/supsquad/ccremote-release/releases/download/desktop-v0.7.0/CCRemote_0.7.0_x64-setup.exe"
     }
   }
 }

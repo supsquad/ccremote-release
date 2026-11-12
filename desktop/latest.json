@@ -1,11 +1,11 @@
 {
-  "version": "0.7.1",
-  "notes": "Màn Extension gọn hơn: nút Cài không đè lên mô tả, nút cỡ thường, trang chi tiết không còn khoảng trống lệch, README không lặp tên và không xuống dòng giữa câu.",
-  "pub_date": "2026-11-11T10:36:13.097Z",
+  "version": "0.7.2",
+  "notes": "Model Claude Code ghi đúng bản đang chạy; Codex có ba chế độ Chỉ đọc / Mặc định / Toàn quyền như Codex; khối tool chỉ mở khi bấm; màn extension gọn hơn.",
+  "pub_date": "2026-11-12T15:15:00.441Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMGgwTDZrRVc1WFBlZndSY1YvbjFSWnlSblJ4Zm5aRnFlcTFBaFlwQ25SeGJUVlhma0VjbGFQOE9JeGVHOU1DVDQvR0hJVWhoSG9kM2lhclZhSGdJUW5XUEs4a0UyS0E0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MzkzMzcyCWZpbGU6Q0NSZW1vdGVfMC43LjFfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuNy4xCjhTS2x0OEkvUDdkZW9zZDdjSk4yU3M5Q0ZDUU8zb21iSTlBTE1sTG1mQ01ZV2ZtNFRSMi9rcHl6REN2RUZTMDBkVWUrL2Vmckx0SkxXUTU5Qys1L0JBPT0K",
-      "url": "https://github.com/supsquad/ccremote-release/releases/download/desktop-v0.7.1/CCRemote_0.7.1_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMGgwTDZrRVc1WEVZRW5PSHhpNnMwVWEzSHhKTS90eXRxVndyTEZYVnNZTmpLNk5zSVpsajZnY2NhWEFqVUdESnYzY0diRzBnNUlBdUZGaldObzFRaWpqbDFMRlI2cHdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDk2NTAwCWZpbGU6Q0NSZW1vdGVfMC43LjJfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuNy4yClIvd1Jza3Nncyt0KzkxRUZPREt6VzQwSFpIZ3RNRmxUb0hFZVFKS3JwZURDMkVUMkdDQ1Z4aEZsQmtOTEZiUzlIaFQ0ekZzcHRYbEFUaW9DaG9LUURRPT0K",
+      "url": "https://github.com/supsquad/ccremote-release/releases/download/desktop-v0.7.2/CCRemote_0.7.2_x64-setup.exe"
     }
   }
 }

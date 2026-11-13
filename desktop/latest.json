@@ -1,11 +1,11 @@
 {
-  "version": "0.7.2",
-  "notes": "Model Claude Code ghi đúng bản đang chạy; Codex có ba chế độ Chỉ đọc / Mặc định / Toàn quyền như Codex; khối tool chỉ mở khi bấm; màn extension gọn hơn.",
-  "pub_date": "2026-11-12T15:15:00.441Z",
+  "version": "0.7.3",
+  "notes": "Đổi tên kết nối được từ điện thoại; kết nối Codex hiện email và gói tài khoản.",
+  "pub_date": "2026-11-13T12:14:57.031Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMGgwTDZrRVc1WEVZRW5PSHhpNnMwVWEzSHhKTS90eXRxVndyTEZYVnNZTmpLNk5zSVpsajZnY2NhWEFqVUdESnYzY0diRzBnNUlBdUZGaldObzFRaWpqbDFMRlI2cHdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDk2NTAwCWZpbGU6Q0NSZW1vdGVfMC43LjJfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuNy4yClIvd1Jza3Nncyt0KzkxRUZPREt6VzQwSFpIZ3RNRmxUb0hFZVFKS3JwZURDMkVUMkdDQ1Z4aEZsQmtOTEZiUzlIaFQ0ekZzcHRYbEFUaW9DaG9LUURRPT0K",
-      "url": "https://github.com/supsquad/ccremote-release/releases/download/desktop-v0.7.2/CCRemote_0.7.2_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMGgwTDZrRVc1WEtYcktXTVB4YTNBSjBaanRJZkJvVjZmZHZDdytGSDM2TlRib1RCWXVvNjU3SXJJQWdqYXBkOGRFSWF4c1FGa3pmRWR2QzVMTWlFdXhsZUQybVlLcWdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTcyMDk2CWZpbGU6Q0NSZW1vdGVfMC43LjNfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuNy4zCnBDUmFnSlA3OEVzTzVxaDllcm14dTVGVnFBQ0RFcWozeExQQzR0THRmUjBwaUROdnI3WmJ4S0tVWHllN3FRM0k1SCtoWTROMUR6SFpiUHZoZ2RPdUNnPT0K",
+      "url": "https://github.com/supsquad/ccremote-release/releases/download/desktop-v0.7.3/CCRemote_0.7.3_x64-setup.exe"
     }
   }
 }

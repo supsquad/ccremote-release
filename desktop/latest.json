@@ -1,11 +1,11 @@
 {
-  "version": "0.7.6",
-  "notes": "Logo mới: chữ C bong bóng chat phát sóng tín hiệu",
-  "pub_date": "2026-11-14T16:08:56.756Z",
+  "version": "0.7.7",
+  "notes": "Logo: chỗ lõm trong lòng chữ C cong như đuôi bên ngoài",
+  "pub_date": "2026-11-14T16:22:14.053Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMGgwTDZrRVc1WENwSU45NTlORnlUdmZOa29RWlFLV21tNW1Xbm01aXdDVy9DdjF2L0thNStqY29OemtTQjFjc0VMcDhyU05aeXI5TXhxRm0waG1NMzZRcmY2VUVKb1FnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NjcyNTM2CWZpbGU6Q0NSZW1vdGVfMC43LjZfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuNy42CmV3c3lqb0p5VVVySlRPaHQ1K2h1cW93akV5NTdoVHFnZ1dML2NEU3NXVW5SZXk0MkE5R1hrdnk3UW5VRzFVMDJMT0EvL1JuaUZrWkYrMWNWblYzbkNnPT0K",
-      "url": "https://github.com/supsquad/ccremote-release/releases/download/desktop-v0.7.6/CCRemote_0.7.6_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMGgwTDZrRVc1WE1kWjVJaVhJRDlzbHpNa1Uxak5EVGlNRTB0L1YrcTFxZXBCWE96MCtrT2VlZ0FwV0NteEsxNlBpWEZVanJ4YjhVRHY0Q3M4RUs3TTNzSDlRZXg0TmdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NjczMzMzCWZpbGU6Q0NSZW1vdGVfMC43LjdfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuNy43ClEvRGZWSGFScVRnSVFnclNQZlNsc1FkZHJ1UE9zdGRrYnFsTjkyblZBR21JM0R0N01DRldNTzNHOTJVMWdlaUdzalpBUlVRVzhOZ1dibURBLzRzM0JRPT0K",
+      "url": "https://github.com/supsquad/ccremote-release/releases/download/desktop-v0.7.7/CCRemote_0.7.7_x64-setup.exe"
     }
   }
 }

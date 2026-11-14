@@ -1,11 +1,11 @@
 {
-  "version": "0.7.5",
-  "notes": "Chat mới chưa gửi tin vẫn còn sau khi thoát app. Đoạn chat hiện tại không còn nhảy về đoạn cũ sau khi khởi động lại hay kết nối lại.",
-  "pub_date": "2026-11-14T14:13:54.038Z",
+  "version": "0.7.6",
+  "notes": "Logo mới: chữ C bong bóng chat phát sóng tín hiệu",
+  "pub_date": "2026-11-14T16:08:56.756Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMGgwTDZrRVc1WEx4MEh1ckFwMGxZMi9VUDdaNHlxcHhpb3ZYTU45QXFLTHFVOHdZblA3VmdCZjR5aG5Pbzl5US9vWFUxSlNTeVEvdjFudUJUeUsyMWI1d09PNHh0Tmc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NjY1NjMzCWZpbGU6Q0NSZW1vdGVfMC43LjVfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuNy41Cm9hRVRHYlpjU3NrcnYzaVlZWkV0SDNta1RVMjFtb1BtUjh1L2h1M0V1bkhsTUR0c282UGRXaUdUTHA2NkZqQVFvODRwcjNIVVpNanhEcVdhTC9IekNnPT0K",
-      "url": "https://github.com/supsquad/ccremote-release/releases/download/desktop-v0.7.5/CCRemote_0.7.5_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMGgwTDZrRVc1WENwSU45NTlORnlUdmZOa29RWlFLV21tNW1Xbm01aXdDVy9DdjF2L0thNStqY29OemtTQjFjc0VMcDhyU05aeXI5TXhxRm0waG1NMzZRcmY2VUVKb1FnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NjcyNTM2CWZpbGU6Q0NSZW1vdGVfMC43LjZfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuNy42CmV3c3lqb0p5VVVySlRPaHQ1K2h1cW93akV5NTdoVHFnZ1dML2NEU3NXVW5SZXk0MkE5R1hrdnk3UW5VRzFVMDJMT0EvL1JuaUZrWkYrMWNWblYzbkNnPT0K",
+      "url": "https://github.com/supsquad/ccremote-release/releases/download/desktop-v0.7.6/CCRemote_0.7.6_x64-setup.exe"
     }
   }
 }

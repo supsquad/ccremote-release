@@ -1,11 +1,11 @@
 {
-  "version": "0.7.4",
-  "notes": "Thanh điều hướng bên trái như VS Code: Chat, Kết nối agent, Extension, Cài đặt (Ctrl+B thu gọn). Thao tác trên dòng đều là icon. Daemon không cần VC++ Redistributable trên Windows.",
-  "pub_date": "2026-11-13T16:42:46.327Z",
+  "version": "0.7.5",
+  "notes": "Chat mới chưa gửi tin vẫn còn sau khi thoát app. Đoạn chat hiện tại không còn nhảy về đoạn cũ sau khi khởi động lại hay kết nối lại.",
+  "pub_date": "2026-11-14T14:13:54.038Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMGgwTDZrRVc1WE5BMXNzK09Na2hvY2RZTXVETENFb3FGTmpncEFlMzd1dUh0UGloL2NmZ0RkUEFVUDU2cWFER0FUQXpNNVA2TzlpUG0zVTdaaktDcUhyZW1iekUyMFFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTg4MTY2CWZpbGU6Q0NSZW1vdGVfMC43LjRfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuNy40CktlM3QvSXNSMWgvRlNVeTUvejg0Q1JTanA1NmpEUU45ajJ5aUtZK1I1UXVVeko0TlBHWUJqRFZpY3ZhZnlza1FuL2xJYUlCTFVMUGI2dnVLck12NUNnPT0K",
-      "url": "https://github.com/supsquad/ccremote-release/releases/download/desktop-v0.7.4/CCRemote_0.7.4_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMGgwTDZrRVc1WEx4MEh1ckFwMGxZMi9VUDdaNHlxcHhpb3ZYTU45QXFLTHFVOHdZblA3VmdCZjR5aG5Pbzl5US9vWFUxSlNTeVEvdjFudUJUeUsyMWI1d09PNHh0Tmc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NjY1NjMzCWZpbGU6Q0NSZW1vdGVfMC43LjVfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuNy41Cm9hRVRHYlpjU3NrcnYzaVlZWkV0SDNta1RVMjFtb1BtUjh1L2h1M0V1bkhsTUR0c282UGRXaUdUTHA2NkZqQVFvODRwcjNIVVpNanhEcVdhTC9IekNnPT0K",
+      "url": "https://github.com/supsquad/ccremote-release/releases/download/desktop-v0.7.5/CCRemote_0.7.5_x64-setup.exe"
     }
   }
 }
